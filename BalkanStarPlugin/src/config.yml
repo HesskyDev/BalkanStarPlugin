@@ -1,0 +1,15 @@
+#----------------------------------------------
+# ChatColors: &0 - Black &1 - Dark Blue &2 - Dark Green &3 - Cyan &4 - Dark  Red &5 - Purple 
+# &6 - Orange &7 - Light Gray &8 - Gray &9 - Blue &a - Light Green &b - Light Blue &c - Light Red
+# &d - Pink &e - Yellow &f - White &k - r?2jf8 &l - BOLD &m - Strike &n - UnderLine &o - Italic
+
+#Lord kit cooldown in seconds [86400 = 24h, 3600 = 1h]
+cooldown: 86400
+
+#op boots item cooldown [1209600 = 14 days, 86400 = 24h, 3600 = 1h]
+bootscooldown: 1209600
+
+#Zombie sword
+ZombieSword:
+  drop: 1.00
+  cooldown: 10

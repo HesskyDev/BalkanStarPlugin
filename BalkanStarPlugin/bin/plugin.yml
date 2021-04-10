@@ -1,0 +1,20 @@
+name: BalkanStarPlugin
+version: 3.0.1
+api-version: 1.15
+author: Hessky
+main: me.Hessky.BalkanStarPlugin.Main
+description: Plugin made for a server BalkanStar.apexmc.co
+
+commands:
+  Discord:
+    description: Get the discord link for the server.
+  Kit:
+    description: Kit lord, "balkanstarplugin.kitlord" perm
+  Ranks:
+    description: See list of ranks for balkanstar srw
+  Info:
+    aliases: [hub]
+    description: Main info and command of the server
+  Recipes:
+    aliases: [recipe]
+    description: How to craft some items.
